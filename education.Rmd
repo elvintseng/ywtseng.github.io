@@ -1,0 +1,57 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'education.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+</div>
+<div style="margin-bottom:50px;">
+</div>
+
+</div>
+<img src="tsinghua.jpg" style="width:55%; float: right">
+</div>
+
+## Master of Science: Statistics
+National Tsing Hua University, Hsinchu, Taiwan 
+
+- **Entered:** Fall 2021    
+- List awards and achievements
+- **Advisor:** [Dr. Longcheen Huwang](https://stat.site.nthu.edu.tw/p/406-1327-4323,r406.php?Lang=en)
+
+
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+<div>
+<div style="margin-bottom:20px;">
+</div>
+
+    
+## Bachelors of Science: Mathematics 
+
+National Tsing Hua University, Hsinchu, Taiwan 
+
+- **Graduated:** June 2021   
+- List your achievements 
+- **Undergraduate Thesis**: "Title"    
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+
+## Articles and News
+
+- List cool things here
+
+

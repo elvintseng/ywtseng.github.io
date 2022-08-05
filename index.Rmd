@@ -5,18 +5,16 @@ knit: (function(input_file, encoding) {
   rmarkdown::render(input_file,
  encoding=encoding,
  output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
-layout: default
 output:
   html_document:
     df_print: paged
     css: "style.css"
 ---
 
-<center> <h1>My name</h1> </center>
+<center> <h1>Yi-Wen Tseng</h1> </center>
 
 <center>
-Ph.D. Student in [Statistics at Cornell University](https://stat.cornell.edu/)  
-**Pronouns:** list pronouns
+Master Student in [Statistics at National Tsing Hua University](https://stat.site.nthu.edu.tw)  
 </center>
 
 </div>
@@ -33,7 +31,7 @@ border:5px solid; border-color:black">
 </div>
 
 <center>
-My name is ________, and I am a Ph.D. student in the Department of Statistics at Cornell University. My current research interests are ________. I am interested in applications in ________. In my free time, I like to ________.
+My name is Elvin(Yi-Wen), and I am a master's student in the Institute of Statistics at National Tsing Hua University. My current research interests are ________. I am interested in applications in ________. In my free time, I like to ________.
    
 Please find my CV [insert link here].   
 </center>
