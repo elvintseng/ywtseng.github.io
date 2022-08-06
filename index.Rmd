@@ -14,7 +14,7 @@ output:
 <center> <h1>Yi-Wen Tseng</h1> </center>
 
 <center>
-Master Student in [Statistics at National Tsing Hua University](https://stat.site.nthu.edu.tw)  
+Master's Student in [Statistics at National Tsing Hua University](https://stat.site.nthu.edu.tw)  
 </center>
 
 </div>
