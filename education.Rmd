@@ -12,46 +12,46 @@ output:
 ---
 
 </div>
-<div style="margin-bottom:50px;">
-</div>
+
+::: {style="margin-bottom:50px;"}
+:::
 
 </div>
-<img src="tsinghua.jpg" style="width:55%; float: right">
+
+<img src="tsinghua.jpg" style="width:55%; float: right"/>
+
 </div>
 
 ## Master of Science: Statistics
-National Tsing Hua University, Hsinchu, Taiwan 
 
-- **Entered:** Fall 2021    
-- List awards and achievements
-- **Advisor:** [Dr. Longcheen Huwang](https://stat.site.nthu.edu.tw/p/406-1327-4323,r406.php?Lang=en)
+National Tsing Hua University, Hsinchu, Taiwan
 
-
+-   **Graduated:** July 2023\
+-   **Advisor:** [Dr. Longcheen Huwang](https://stat.site.nthu.edu.tw/p/406-1327-4323,r406.php?Lang=en)
+-   **Thesis**: "Change-point detection EWMA control charts for monitoring Weibull scale parameter"
 
 </div>
-<div style="margin-bottom:20px;">
-</div>
+
+::: {style="margin-bottom:20px;"}
+:::
 
 <div>
-<div style="margin-bottom:20px;">
+
+::: {style="margin-bottom:20px;"}
+:::
+
+## Bachelors of Science: Mathematics
+
+National Tsing Hua University, Hsinchu, Taiwan
+
+-   **Graduated:** June 2021\
+-   List your achievements
+
 </div>
 
-    
-## Bachelors of Science: Mathematics 
+::: {style="margin-bottom:20px;"}
+:::
 
-National Tsing Hua University, Hsinchu, Taiwan 
+## Honors & Awards
 
-- **Graduated:** June 2021   
-- List your achievements 
-- **Undergraduate Thesis**: "Title"    
-
-</div>
-<div style="margin-bottom:20px;">
-</div>
-
-
-## Articles and News
-
-- List cool things here
-
-
+-   List cool things here
