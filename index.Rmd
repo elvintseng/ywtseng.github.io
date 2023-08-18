@@ -22,7 +22,7 @@ Master's Student in [Statistics at National Tsing Hua University](https://stat.s
 </div>
 
 <center>
-<img src="photo_of_me.png" style="width:20%;
+<img src="photo_of_me.jpeg" style="width:40%;
 border:5px solid; border-color:black">
 </center>
 
@@ -31,7 +31,7 @@ border:5px solid; border-color:black">
 </div>
 
 <center>
-My name is Elvin(Yi-Wen), and I am currently a research assistant in the Research Center for Information Technology Innovation at Acdemia Sinica. My current research interests are consensus machine learning. My interest lies in exploring how Federated Learning ensures the privacy of local clients throughout the training process. In my free time, I like to play and watch basketball games.
+My name is Elvin(Yi-Wen), and I am currently a research assistant in the [Research Center for Information Technology Innovation](https://www.citi.sinica.edu.tw/) at [Acdemia Sinica](https://www.sinica.edu.tw/). My current research interests are consensus machine learning. My interest lies in exploring how Federated Learning ensures the privacy of local clients throughout the training process. In my free time, I like to play and watch basketball games.
    
 Please find my CV [insert link here].   
 </center>
