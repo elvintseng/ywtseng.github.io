@@ -11,4 +11,4 @@ output:
     css: "style.css"
 ---
 
-Please contact me at [ywtseng@gapp.nthu.edu.tw]()
+Please contact me at [ywtseng@gapp.nthu.edu.tw](mailto: ywtseng@gapp.nthu.edu.tw)
