@@ -1,7 +1,7 @@
 name: "yi-wen elvin tseng"
 output_dir: "docs"
 navbar:
-  title: "Yi-Wen Tseng"
+  title: "Elvin Tseng"
   left:
     - text: "Home"
       href: index.html
@@ -15,7 +15,7 @@ navbar:
     - icon: fa-twitter fa-lg
       href: 
     - icon: fa-linkedin fa-lg
-      href: 
+      href: https://www.linkedin.com/in/%E7%BE%BF%E6%96%87-%E6%9B%BE-95a351282
     - icon: fa-google fa-lg
       href: 
       

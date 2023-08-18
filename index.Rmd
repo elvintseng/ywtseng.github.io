@@ -31,7 +31,7 @@ border:5px solid; border-color:black">
 </div>
 
 <center>
-My name is Elvin(Yi-Wen), and I am a master's student in the Institute of Statistics at National Tsing Hua University. My current research interests are ________. I am interested in applications in ________. In my free time, I like to ________.
+My name is Elvin(Yi-Wen), and I am currently a research assistant in the Research Center for Information Technology Innovation at Acdemia Sinica. My current research interests are consensus machine learning. My interest lies in exploring how Federated Learning ensures the privacy of local clients throughout the training process. In my free time, I like to play and watch basketball games.
    
 Please find my CV [insert link here].   
 </center>
